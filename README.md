@@ -1,4 +1,4 @@
-# Accident-Severity-Analysis-of-UK
+# Accident Severity Analysis of UK
 
 Dataset can be downloaded from:
 https://data.gov.uk/dataset/road-accidents-safety-data
