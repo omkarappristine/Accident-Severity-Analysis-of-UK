@@ -8,3 +8,5 @@ The UK has been affected by accidents in the past few years. Road safety measure
 
 # The link to Tableau analysis:
 https://public.tableau.com/views/AccidentseverityanalysisUK/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
+![image](https://user-images.githubusercontent.com/46810864/193483732-773d449d-0703-4e33-a072-f9c888d58043.png)
+
