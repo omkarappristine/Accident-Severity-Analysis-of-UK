@@ -11,3 +11,4 @@ https://public.tableau.com/views/AccidentseverityanalysisUK/Story1?:language=en-
 ![image](https://user-images.githubusercontent.com/46810864/193483732-773d449d-0703-4e33-a072-f9c888d58043.png)
 ![image](https://user-images.githubusercontent.com/46810864/193483747-32258ccf-14ec-4997-accd-a609b307ddca.png)
 ![image](https://user-images.githubusercontent.com/46810864/193483768-22c53cb0-842f-49e5-8e88-1864a69d284e.png)
+![image](https://user-images.githubusercontent.com/46810864/193483792-448e27fb-95e3-4675-8cf8-c9f6732ac667.png)
